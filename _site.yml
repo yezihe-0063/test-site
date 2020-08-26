@@ -7,4 +7,7 @@ navbar:
        href: post1.html
      - text: "Post2"
        href: post2.html
-       
+output:
+   html_document:
+     theme: darkly
+output_dir: docs
